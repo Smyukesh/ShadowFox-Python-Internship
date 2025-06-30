@@ -30,18 +30,8 @@ Welcome to my official repository for the Python Development Internship at **Sha
 ## ⚙️ Intermediate Tasks
 
 - 🌐 Web Scraper using BeautifulSoup → [`web_scraper.py`](Intermediate_Tasks/web_scraper.py)
-- 🎮 Hangman Game with CLI interaction → [`hangman_game.py`](Intermediate_Tasks/hangman_game.py)
-
----
-
-## 🚀 Advanced Task
-
-- 🔍 [Cricket Fielding Analysis](Advanced_Task/cricket_analysis.ipynb)  
-  *(OR)*  
-- 📊 [Data Analysis with Jupyter](Advanced_Task/data_analysis.ipynb)  
-  *(OR)*  
-- 🤖 [Language Model (GPT/BERT) Analysis](Advanced_Task/nlp_project.ipynb)
-
+- 🎮 Hangman Game with CLI interaction → [`hangman_game.py`](Intermediate_Tasks/hangman_game.py
+- 
 ---
 
 ## 📸 Proof of Work
